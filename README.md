@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Alkaapone
+- 🌱 I’m currently learning js and lua
